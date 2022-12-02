@@ -7,3 +7,11 @@ Author: Kudryashova Svetlana Andreevna <br>
 Lab: Lab1 <br>
 Date of create: 10.11.2022 <br>
 Date of finished: <br>
+<br>
+## Цель работы <br>
+Ознакомиться с инструментами Minikube и Docker, развернуть свой первый "под".<br>
+<br>
+## Ход работы<br>
+1) Манифест для развертывания "пода"<br>
+<br>
+<br>
