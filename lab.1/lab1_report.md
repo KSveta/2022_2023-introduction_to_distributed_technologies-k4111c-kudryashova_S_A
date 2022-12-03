@@ -24,6 +24,7 @@ Date of finished: <br>
  <br>
  4. Команда kubectl logs позволяет просматривать логи пода. Находим токен для входа. <br>
  <br>
- ## Схема организации контейнеров и сервисов <br>
-![image](https://user-images.githubusercontent.com/113091328/205379641-d2a3e97f-f866-446b-8b86-9a2ac16b3353.png)
-<br>
+ ## Cхема организации сервисов и контейнеров <br>
+ 
+![image](https://user-images.githubusercontent.com/113091328/205427042-a77d77bd-1897-4915-a85f-8e6d340ba12d.png)
+
