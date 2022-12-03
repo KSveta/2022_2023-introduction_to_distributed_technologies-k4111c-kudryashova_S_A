@@ -13,20 +13,31 @@ Date of finished: <br>
 <br>
 ## Ход работы<br>
 1. Манифест для развертывания "пода"<br>
+
 ![image](https://user-images.githubusercontent.com/113091328/205375421-8c289eac-bd94-4b04-af46-c650bb762e31.png)
 
-   Команда для создание пода <br> 
+Команда для создание пода <br> 
    
    ![image](https://user-images.githubusercontent.com/113091328/205431319-72302beb-9997-4143-98e5-0de02e6b70fe.png)
 
 <br>
 2. Создание сервиса для доступа к контейнеру vault <br>
+
+
+![image](https://user-images.githubusercontent.com/113091328/205431371-39ff38cd-3f50-4364-b5a8-f48c49665c4c.png)
+
 Указываем тип сервиса NodePort. Он отвечает за доступ к нашим ресурсам извне (из других Nodes) <br>
 Сервис создается для пода vault , который обслуживает порт 8200 <br>
  <br>
-3. Команда позволяет прослушать порт на localhost и перенаправить на порт 8200 в кластере:<br>
- <br>
- 4. Команда kubectl logs позволяет просматривать логи пода. Находим токен для входа. <br>
+3. Команда port-forward позволяет прослушать порт на localhost и перенаправить на порт 8200 в кластере:<br>
+
+![image](https://user-images.githubusercontent.com/113091328/205431439-a498422c-2cf1-4fe8-9523-e1578afd4ebc.png)
+
+
+4. Команда kubectl logs позволяет просматривать логи пода. Находим токен для входа. <br>
+ 
+ ![image](https://user-images.githubusercontent.com/113091328/205431513-c464814f-ddf1-48cb-bb82-14a55c8a8b0e.png)
+
  <br>
  
  ## Cхема организации сервисов и контейнеров <br>
