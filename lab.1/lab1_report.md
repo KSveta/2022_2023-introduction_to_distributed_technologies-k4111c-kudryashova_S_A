@@ -6,7 +6,7 @@ Group: K4111c <br>
 Author: Kudryashova Svetlana Andreevna <br>
 Lab: Lab1 <br>
 Date of create: 10.11.2022 <br>
-Date of finished: <br>
+Date of finished: 3.12.2022<br>
 <br>
 ## Цель работы <br>
 Ознакомиться с инструментами Minikube и Docker, развернуть свой первый "под".<br>
