@@ -35,10 +35,10 @@ kubectl apply -f lab2.yaml
 
 ### 3. Проверка на странице в веб браузере переменных <br>
 
-![image](https://user-images.githubusercontent.com/113091328/206488357-a2bbe3a6-1197-4b94-9abb-a3e9f4167579.png)
+![image](https://user-images.githubusercontent.com/113091328/206498783-f9b17ae3-a143-4583-8693-417efab29503.png)
 
 
-![image](https://user-images.githubusercontent.com/113091328/206488394-946d9247-3b41-4093-a715-61ca0070b5de.png)
+![image](https://user-images.githubusercontent.com/113091328/206498929-f3cfd4b2-7013-4237-acee-6644944b8c10.png)
 
 
 Поля REACT_APP_USERNAME и REACT_APP_COMPANY_NAME остаются не изменными, поскольку это константы, указанные в манифесте, а поле Container name изменяется, т.к. сервис распределяет запросы между двумя репликами. <br><br>
