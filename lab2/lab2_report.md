@@ -14,10 +14,17 @@ Date of finished: <br>
 ## Ход работы<br>
 
 1. Создание deployment и сервиса <br>
+```bash
+kubectl apply -f lab2.yaml
+```
 
-![image](https://user-images.githubusercontent.com/113091328/206240809-ae444235-c314-44b6-b505-fd41167704a6.png)
+![image](https://user-images.githubusercontent.com/113091328/206441576-3f13daa9-56f6-4977-8a53-0d06316f9788.png)
+
 
 2. <br>
 
 ![image](https://user-images.githubusercontent.com/113091328/206241643-f89033a2-2867-419d-8e38-2ff5b07f5f6f.png)
+
+<br>
+
 
