@@ -4,9 +4,9 @@ Course: [Introduction to distributed technologies](https://github.com/itmo-ict-f
 Year: 2022/2023 <br>
 Group: K4111c <br>
 Author: Kudryashova Svetlana Andreevna <br>
-Lab: Lab1 <br>
+Lab: Lab2 <br>
 Date of create: 6.12.2022 <br>
-Date of finished: <br>
+Date of finished: 8.12.2022 <br>
 
 ## Цель работы <br>
 Ознакомиться с типами "контроллеров" развертывания контейнеров, ознакомится с сетевыми сервисами и развернуть свое веб приложение.<br>
