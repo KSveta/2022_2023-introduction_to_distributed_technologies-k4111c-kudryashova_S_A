@@ -64,3 +64,5 @@ Ingress — это объект API, который определяет пра�
 ![image](https://user-images.githubusercontent.com/113091328/206838446-fdd0b1ea-16de-4171-83f5-16b42de05de7.png)
 
 ### 5. Схема организации сервисов и контейнеров 
+
+![image](https://user-images.githubusercontent.com/113091328/206839252-343ad14c-8af9-49ef-848d-4a4187b4e65c.png)
